@@ -35,3 +35,5 @@ zope.interface==5.4.0
 ipykernel
 xlrd
 openpyxl
+requests
+func_timeout
