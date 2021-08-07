@@ -1,4 +1,5 @@
 # data_project_2021
+
 Code1161 Data project repo
 
 The new codes I've learnt from this project.
@@ -10,3 +11,5 @@ The new codes I've learnt from this project.
 .iterrows() = iterate rows
 
 .iteritems() = Iterate items
+
+data-project-env\Scripts\activate.bat
