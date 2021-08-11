@@ -37,3 +37,4 @@ xlrd
 openpyxl
 requests
 func_timeout
+shapely

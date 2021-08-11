@@ -13,3 +13,5 @@ The new codes I've learnt from this project.
 .iteritems() = Iterate items
 
 data-project-env\Scripts\activate.bat
+
+df.groupby(pd.Grouper(freq="D"))
